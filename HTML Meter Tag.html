@@ -1,0 +1,1 @@
+<meter value="0.6">60%</meter>
